@@ -8,11 +8,11 @@ I design things that work in production — not just in demos. My QA background 
 
 ## What I'm building
 
-**[AbIlity](https://github.com/mdublock/ability-ai)** — AI rehabilitation platform  
+**[AbIlity](https://github.com/mezger75/ability-rehab-platform)** — AI rehabilitation platform  
 Medical assistant powered by YandexGPT. Generates SMART recovery goals, tracks patient progress via WHODAS 2.0, real-time sync between patient interface and doctor dashboard. Built at Sechenov University Hackathon (April 2026).  
 `Next.js` `TypeScript` `Supabase` `YandexGPT` `Vercel`
 
-**[Fitness AI Bot](https://github.com/mdublock/fitness-bot)** — Telegram assistant  
+**[Fitness AI Bot](https://github.com/mdublock/fitness-platform)** — Telegram assistant  
 Personalized fitness & nutrition assistant on Claude API. Subscription flow, live users, deployed on VPS.  
 `Claude API` `Telegram Bot API` `Python` `systemd`
 
